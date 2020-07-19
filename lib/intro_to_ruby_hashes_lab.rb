@@ -1,6 +1,7 @@
 def my_hash_creator(key, value)
   {
-    name: "Grace Hopper" 
+    key: "Grace"
+    value: "Hopper"
   }
 end
 
